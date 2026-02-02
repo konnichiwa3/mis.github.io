@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LocalWisdom Connect4",
+  "description": "A comprehensive platform for local tourism, community shops, and local wisdom, featuring dashboards, interactive maps, and AI-powered recommendations for government and public use.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
